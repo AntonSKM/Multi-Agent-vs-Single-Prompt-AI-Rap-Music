@@ -1,0 +1,10 @@
+{
+  "artist_dna": "[LYRICAL DNA] Perspective: First-person street narration; confident, detached, guarded. Themes: Atlanta street life, ambition, wealth, isolation, loyalty, pressure. Vocabulary: Direct, punchy, accessible street slang. Attitude: Controlled aggression, emotional restraint, distrust, cold reflection. Rhymes: High-impact AABB/ABAB structures. Hooks: Short, highly repetitive, catchy rhythmic phrases. Flow: Rhythm-first, conversational cadence, sharp articulation. [ACOUSTIC DNA] Voice: Deep male baritone; low chest resonance. Timbre: Dark, heavy, textured, slightly raspy, intimidating. Delivery: Aggressive yet controlled; minimal pitch variation; US american english. Processing: Dry, upfront, close-mic, subtle saturation, light autotune. Instruments: Ominous bells, eerie sparse synths, atmospheric pads. Drums/Bass: Saturated heavy 808s, hard-clipping kicks, rolling hi-hats. Arrangement: Minimalist, high negative space, fast 150-190 BPM tempo. Atmosphere: Dark, nocturnal, tense, emotionally cold, commercially polished.",
+  "song_count": 30,
+  "experiment_id": "exp_110",
+  "max_song_revisions": 5,
+  "duration": 150,
+  "vocal_language": "en",
+  "seed": 1000,
+  "audio_prompt_characters": 512
+}
